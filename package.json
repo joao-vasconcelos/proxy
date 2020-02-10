@@ -1,0 +1,30 @@
+{
+  "name": "johny-proxy",
+  "version": "1.0.0",
+  "description": "Reverse Proxy built with CORS Anywhere.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch-all --verbose",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "10.15.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://example.com/"
+  },
+  "author": "João de Vasconcelos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://example.com/"
+  },
+  "homepage": "https://example.com/",
+  "dependencies": {
+    "nodemon": "^2.0.2",
+    "npm": "^6.13.4"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
